@@ -1,0 +1,17 @@
+<svg width="100%" height="100%" viewBox="0 0 1440 979" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle" fill="#B6FFF4" opacity="0" x="0" y="0" width="1440" height="979"></rect>
+            <g id="Group" transform="translate(424.000000, 32.000000)">
+                <polygon id="Rectangle-3" fill="#5BC0BE" transform="translate(172.134223, 605.134223) rotate(43.000000) translate(-172.134223, -605.134223) " points="124.634223 557.634223 219.634223 557.634223 219.634223 652.634223 124.634223 652.634223"></polygon>
+                <polygon id="Rectangle-3" fill="#F4FAFF" transform="translate(499.234377, 325.234377) rotate(80.000000) translate(-499.234377, -325.234377) " points="456.734377 282.734377 541.734377 282.734377 541.734377 367.734377 456.734377 367.734377"></polygon>
+                <polygon id="Rectangle-3" fill="#0B132B" transform="translate(319.660457, 55.660457) rotate(16.000000) translate(-319.660457, -55.660457) " points="274.660457 10.6604573 364.660457 10.6604573 364.660457 100.660457 274.660457 100.660457"></polygon>
+                <polygon id="Rectangle-4" fill="#0B132B" points="402.55408 623.182518 1016 190.203732 1016 214.607909 409.019001 634.154742"></polygon>
+                <rect id="Rectangle-3" fill="#F4FAFF" transform="translate(498.563613, 582.563613) rotate(58.000000) translate(-498.563613, -582.563613) " x="456.063613" y="540.063613" width="85" height="85"></rect>
+                <polygon id="Rectangle-4-Copy" fill="#5BC0BE" transform="translate(715.053305, 471.396470) rotate(4.000000) translate(-715.053305, -471.396470) " points="425.948497 664.734669 1002.48767 267.651803 1004.15811 291.54031 432.295305 675.141136"></polygon>
+                <path d="M362,284 C380.831931,284 397.453284,274.535388 407.366791,260.103431 C407.847377,259.4038 388.037534,245.015631 388.037534,245.015631 C388.037534,245.015631 372.459549,267.200281 349.606365,256.585353 C326.753181,245.970425 333.519061,217.256803 333.519061,217.256803 L308.972284,214.351107 C307.686727,219.01508 307,223.927343 307,229 C307,259.375661 331.624339,284 362,284 Z" id="Oval-2" fill="#F4FAFF"></path>
+                <circle id="Oval-3" fill="#F4FAFF" cx="50.5" cy="524.5" r="50.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
